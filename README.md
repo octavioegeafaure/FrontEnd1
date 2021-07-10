@@ -2,7 +2,7 @@
 
 # Proyectos
 
-# Octavio Egea Faure
+## Octavio Egea Faure
 
 
 1. LemonPie (https://octavioegeafaure.github.io/PetShop/)
